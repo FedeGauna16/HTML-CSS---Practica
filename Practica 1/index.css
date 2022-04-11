@@ -1,0 +1,101 @@
+.container{
+    width: 100%;
+    height: 100%;
+}
+.navbar{
+    display: flex;
+    justify-content: space-between;
+  background-color: #202020;
+  align-items: center;
+  
+}
+.yt-icon{
+   width: 100px;
+   height:auto;
+   fill: white;   
+}
+.input-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 100%;
+    
+}
+.account-image{
+ 
+   width: 50px;
+   height: 50px;
+   border-radius: 300px; 
+} 
+.content{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap:30px;
+    padding-top: 100px; 
+    width: 100%;
+    height: 100vh; 
+    background-color: #181818;
+} 
+.card{
+  color: white;
+  font-size: 16px !important;
+    width: 246px;
+   height: 139px;
+  background-color: aliceblue;
+}
+.image-container{
+background-color: rgb(168, 21, 21);
+width: 100%;
+height: 100%;
+}   
+.data-container{
+    display: flex;
+    flex-direction: row;
+    background-color: aqua;
+    width: 100%;
+    height: 50%;
+}     
+.icon-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 35%;
+   height: 100%;
+   background-color: #181818;
+}
+.icon-img{
+    width: 50px;
+    height: 50px;
+    border-radius: 30px;   
+}
+.text-container{
+    width: 100%;
+    height: 100%;
+} 
+.title-container{
+  
+    background-color: #181818;
+    font-size: 24px;
+}
+.dataview-container{
+    background-color: #181818;
+    width: 100%;
+    height: 60%;
+} 
+.channel-name{
+    background-color: #181818;
+    font-size: 16px;
+} 
+.view-container{
+   
+    font-size: 12px;
+}
+.content2{
+    
+    padding-top: 100px; 
+    width: 100%;
+    height: 900px; 
+    background-color: #181818;
+} 
